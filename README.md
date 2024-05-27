@@ -154,9 +154,9 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Jérémy Carpentier - [Github](https://github.com/CappieGold) 
-Nicolas Quoirez - [Github](https://github.com/NicolasLearn) 
-Kevin Viais - [Github](https://github.com/ksyv)  
+Jérémy Carpentier - [Github](https://github.com/CappieGold)
+Nicolas Quoirez - [Github](https://github.com/NicolasLearn)
+Kevin Viais - [Github](https://github.com/ksyv)
 
 Second part of Airbnb: Joann Vuong
 ## License
